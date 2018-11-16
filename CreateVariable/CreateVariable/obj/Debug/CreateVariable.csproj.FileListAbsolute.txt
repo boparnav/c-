@@ -1,0 +1,7 @@
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\obj\Debug\CreateVariable.csprojAssemblyReference.cache
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\obj\Debug\CreateVariable.csproj.CoreCompileInputs.cache
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\bin\Debug\CreateVariable.exe.config
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\bin\Debug\CreateVariable.exe
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\bin\Debug\CreateVariable.pdb
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\obj\Debug\CreateVariable.exe
+C:\Users\Navdeep.Boparai\source\repos\CreateVariable\CreateVariable\obj\Debug\CreateVariable.pdb

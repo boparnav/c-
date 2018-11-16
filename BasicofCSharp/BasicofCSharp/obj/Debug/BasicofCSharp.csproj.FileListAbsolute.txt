@@ -1,0 +1,7 @@
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\bin\Debug\BasicofCSharp.exe.config
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\bin\Debug\BasicofCSharp.exe
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\bin\Debug\BasicofCSharp.pdb
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\obj\Debug\BasicofCSharp.csprojAssemblyReference.cache
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\obj\Debug\BasicofCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\obj\Debug\BasicofCSharp.exe
+C:\Users\Navdeep.Boparai\source\repos\BasicofCSharp\BasicofCSharp\obj\Debug\BasicofCSharp.pdb
