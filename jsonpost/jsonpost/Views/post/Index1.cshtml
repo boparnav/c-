@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index1";
+}
+
+<h2>Index1</h2>
+@foreach (var body in ViewBag.body)
+{
+<div class="col-lg-12">
+    <h3>"@body.title"</h3>
+    This Blog is written by+"@body.id"
+    <div class=" col-lg-10">
+        "@body.body"
+    </div>
+</div>
+}

@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Enrollment";
+}
+
+<h2>Enrollment</h2>
+<div class=" Wrapper">
+    <form method="post" action="login" onsubmit="return form1()">
+        <div class="form-group">
+            <label for="FirstName">FirstName:</label>
+            <input type="Text" name="fname" id="fname">
+        </div>
+        <div class="form-group">
+            <label for="lastname">LastName:</label>
+            <input type="Text"  name="lname" id="lname">
+        </div>
+        <div class="form-group">
+            <label for="Phone">Phone No:</label>
+            <input type="tel"  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="tel" id=" tel">
+        </div>
+        <div class="form-group">
+            <label for="Address">Address:</label>
+            <input type="Text"  name="Address" id="Address">
+        </div>
+        <div class="form-group">
+            <label for="email">Email address:</label>
+            <input type="email" name="email"id=" email">
+        </div>
+        <div class="form-group">
+            <label for="program">Programm:</label>
+            <input type="Text" name="pgm" id="pgm ">
+        </div>
+        <div class="form-group">
+            <label for="gender">Gender:</label>
+            <input type="radio"  name="male"id=" male">Male<br>
+            <input type="radio" name="fmale" id="fmale">Female
+
+        </div>
+
+        <button type="submit" class="btn btn-primary" >Submit</button>
+    </form>
+
+</div>
+<script>
+    function form1() {
+        var fname = document.getElementById("fname").value;
+        var lname = document.getElementById("lname").value;
+        var phonr = document.getElementById("tel").value;
+        var add = document.getElementById("Address").value;
+        var eml = document.getElementById("email").value;
+        var prog = document.getElementById("pgm").value;
+        console.log(fname);
+
+
+
+        if (fname == "" || lname == "" || phonr == "" || add == "" || eml == "" || prog == "") {
+            alert("Please enter valid info..");
+            return false;
+
+        }
+        else {
+            alert("Information submitted successfully..");
+            return true;
+
+        }
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

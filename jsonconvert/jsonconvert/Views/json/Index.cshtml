@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+ @foreach (var album in ViewBag.album)
+ {
+     <img src="@album.url" height="50" width="50" />
+ }
+
